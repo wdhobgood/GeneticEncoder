@@ -5,12 +5,7 @@ Encoding a file to nucleotide sequence
 1. Run 'python GeneticConverter.py'
 2. Start by typing 'file', hit enter
 3. A prompt will appear to select a file you want to encode to a nucleotide sequence. I have tested the following file formats: 
-  a. .txt
-  b. .pdf
-  c. .wav
-  d. .xlsx
-  e. .gif
-  f. .jpg
+  (.txt / .pdf / .wav / .xlsx / .gif /.jpg / .pptx)
   
   I assume it should work for any file format.
   
