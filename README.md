@@ -1,5 +1,8 @@
 # Genetic Converter / DataToDNAConverter
 
+Demo of the project can be found here:
+https://youtu.be/VwvVJCZG5qc
+
 Encoding a file to nucleotide sequence
 --------------------------------------
 1. Run 'python GeneticConverter.py'
