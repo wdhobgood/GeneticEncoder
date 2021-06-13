@@ -1,4 +1,4 @@
-# Python script to convert data to DNA and reverse
+# Python script to encode data to DNA and then decode it
 # Developed by: Dallas Hobgood
 # Git Hub: https://github.com/wdhobgood/DataToDNAConverter.git
 #-------------------------------------------------
