@@ -39,5 +39,5 @@ NOTE: You may choose to review the Log.txt file. If a parity descrepancy exists,
 Special options:
  -p | You may include to encode and decode the nucleotide sequence with Hamming Code (7:4) parity bits. in both options when you are encoding and decoding you must use the -p option. (ex. python DNAConverter.py -f -p || python DNAConverter.py -d -p)
   
- -D | you may choose to output files for debugging. this will create numerous files to the root directory for each step of the program.
+ -D | You may choose to output files for debugging. this will create numerous files to the root directory for each step of the program.
  
