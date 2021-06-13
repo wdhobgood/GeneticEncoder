@@ -1,5 +1,9 @@
 # Genetic Encoder
 
+Dependencies
+------------
+HammingCode.py (included) | Original Source: https://github.com/TheAlgorithms/Python/blob/master/hashes/hamming_code.py
+
 Encoding a file to nucleotide sequence
 --------------------------------------
 1. Run from the command line (i.e. python %prog <options>)
