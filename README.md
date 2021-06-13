@@ -1,4 +1,4 @@
-# Genetic Encoder / DataToDNAConverter
+# Genetic Encoder
 
 Encoding a file to nucleotide sequence
 --------------------------------------
